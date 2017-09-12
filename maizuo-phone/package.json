@@ -1,0 +1,24 @@
+{
+  "name": "maizuo-phone",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd-mobile": "^2.0.0-beta.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.13",
+    "webpack": "^3.5.6",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "proxy": "http://m.maizuo.com/v4/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.4.0"
+  }
+}

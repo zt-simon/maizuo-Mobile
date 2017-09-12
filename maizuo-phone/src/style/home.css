@@ -1,0 +1,21 @@
+html,body {
+    width: 100% !important;
+    height: 100% !important;
+}
+.am-navbar {
+    background-color: #000;
+}
+.am-navbar-title {
+    justify-content: flex-start;
+}
+.am-drawer-sidebar {
+    background-color: black !important;
+    width: 80% !important;
+    height: 100% !important;
+}
+.am-list{
+    width: 100% !important;
+}
+.am-list-body {
+    width: 100% !important;
+}
